@@ -1,0 +1,6 @@
+C:\LaboII\20180626-SP\20180626-SP\Alumno\Excepciones\bin\Debug\Excepciones.dll
+C:\LaboII\20180626-SP\20180626-SP\Alumno\Excepciones\bin\Debug\Excepciones.pdb
+C:\LaboII\20180626-SP\20180626-SP\Alumno\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\LaboII\20180626-SP\20180626-SP\Alumno\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\LaboII\20180626-SP\20180626-SP\Alumno\Excepciones\obj\Debug\Excepciones.dll
+C:\LaboII\20180626-SP\20180626-SP\Alumno\Excepciones\obj\Debug\Excepciones.pdb
