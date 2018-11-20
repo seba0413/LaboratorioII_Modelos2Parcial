@@ -1,0 +1,15 @@
+C:\LaboII\Programacion22017\Programacion22017\bin\Debug\Programacion22017.exe.config
+C:\LaboII\Programacion22017\Programacion22017\bin\Debug\Programacion22017.exe
+C:\LaboII\Programacion22017\Programacion22017\bin\Debug\Programacion22017.pdb
+C:\LaboII\Programacion22017\Programacion22017\bin\Debug\Entidades.dll
+C:\LaboII\Programacion22017\Programacion22017\bin\Debug\Interfaces.dll
+C:\LaboII\Programacion22017\Programacion22017\bin\Debug\Entidades.pdb
+C:\LaboII\Programacion22017\Programacion22017\bin\Debug\Interfaces.pdb
+C:\LaboII\Programacion22017\Programacion22017\obj\Debug\Programacion22017.csprojAssemblyReference.cache
+C:\LaboII\Programacion22017\Programacion22017\obj\Debug\Programacion22017.Form1.resources
+C:\LaboII\Programacion22017\Programacion22017\obj\Debug\Programacion22017.Properties.Resources.resources
+C:\LaboII\Programacion22017\Programacion22017\obj\Debug\Programacion22017.csproj.GenerateResource.cache
+C:\LaboII\Programacion22017\Programacion22017\obj\Debug\Programacion22017.csproj.CoreCompileInputs.cache
+C:\LaboII\Programacion22017\Programacion22017\obj\Debug\Programacion22017.csproj.CopyComplete
+C:\LaboII\Programacion22017\Programacion22017\obj\Debug\Programacion22017.exe
+C:\LaboII\Programacion22017\Programacion22017\obj\Debug\Programacion22017.pdb

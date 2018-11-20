@@ -1,0 +1,9 @@
+C:\LaboII\Programacion22017\Entidades\bin\Debug\Entidades.dll
+C:\LaboII\Programacion22017\Entidades\bin\Debug\Entidades.pdb
+C:\LaboII\Programacion22017\Entidades\bin\Debug\Interfaces.dll
+C:\LaboII\Programacion22017\Entidades\bin\Debug\Interfaces.pdb
+C:\LaboII\Programacion22017\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\LaboII\Programacion22017\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\LaboII\Programacion22017\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\LaboII\Programacion22017\Entidades\obj\Debug\Entidades.dll
+C:\LaboII\Programacion22017\Entidades\obj\Debug\Entidades.pdb
