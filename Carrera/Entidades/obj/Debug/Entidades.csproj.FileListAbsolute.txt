@@ -1,0 +1,6 @@
+C:\Users\Windows10\source\repos\ModeloRSP20161201\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows10\source\repos\ModeloRSP20161201\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows10\source\repos\ModeloRSP20161201\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\ModeloRSP20161201\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\ModeloRSP20161201\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows10\source\repos\ModeloRSP20161201\Entidades\obj\Debug\Entidades.pdb
